@@ -1,3 +1,3 @@
-React Dapp boiler plate
+# React Dapp boiler plate
 
-Truffle + Web3 js + React
+## Truffle + Web3 js + React
